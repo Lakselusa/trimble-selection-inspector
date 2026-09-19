@@ -1,0 +1,6 @@
+{
+  "url": "https://REPLACE-WITH-YOUR-HOST/index.html",
+  "title": "Selection Inspector (prototype)",
+  "description": "Shows properties of the objects selected in the 3D viewer",
+  "extensionType": ["3dviewer"]
+}
