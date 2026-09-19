@@ -1,5 +1,5 @@
 {
-  "url": "https://REPLACE-WITH-YOUR-HOST/index.html",
+  "url": "https://lakselusa.github.io/trimble-selection-inspector/index.html",
   "title": "Selection Inspector (prototype)",
   "description": "Shows properties of the objects selected in the 3D viewer",
   "extensionType": ["3dviewer"]
